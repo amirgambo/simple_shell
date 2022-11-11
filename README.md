@@ -1,4 +1,4 @@
-0x16. C - Simple Shell
+0X16. C - SIMPLE SHELL
 
 MANDATORY TASKS
 
